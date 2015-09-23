@@ -1,0 +1,3 @@
+[submodule "mLamp-Arduino"]
+	path = mLamp-Arduino
+	url = git://github.com/mirosval/mLamp-Arduino
