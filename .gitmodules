@@ -1,3 +1,6 @@
 [submodule "mLamp-Arduino"]
 	path = mLamp-Arduino
 	url = git://github.com/mirosval/mLamp-Arduino
+[submodule "mLamp-Raspberry"]
+	path = mLamp-Raspberry
+	url = git@github.com:mirosval/mLamp-Raspberry.git
