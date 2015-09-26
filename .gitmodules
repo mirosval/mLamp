@@ -4,3 +4,6 @@
 [submodule "mLamp-Raspberry"]
 	path = mLamp-Raspberry
 	url = git@github.com:mirosval/mLamp-Raspberry.git
+[submodule "mLamp-Schematics"]
+	path = mLamp-Schematics
+	url = git@github.com:mirosval/mLamp-Schematics.git
